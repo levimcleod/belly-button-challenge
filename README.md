@@ -1,5 +1,7 @@
 # Belly-Button-Challenge
 
+<a href="https://levimcleod.github.io/belly-button-page/" target="_blank">Deployment</a>
+
 ## Overview
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
