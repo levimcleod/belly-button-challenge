@@ -17,6 +17,8 @@ function init() {
       .text(sample.id)
       .property("value", sample.id);
   });
+  var firstSample = data.samples[0].id;
+  optionChanged(firstSample);
 }
 init();
 });
